@@ -1,0 +1,2 @@
+class ServiceTagsController < ApplicationController
+end

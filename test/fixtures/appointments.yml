@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  car: one
+  shop: one
+  total_price: 1
+  date: 2021-10-14 16:54:11
+
+two:
+  car: two
+  shop: two
+  total_price: 1
+  date: 2021-10-14 16:54:11
